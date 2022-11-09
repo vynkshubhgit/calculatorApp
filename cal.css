@@ -2,8 +2,8 @@
 h1 {  
     text-align: center;  
     padding: 23px;  
-    background-color: skyblue;  
-    color: white;  
+    background-color: palevioletred;  
+    color: black;  
     }  
   
 #clear{  
@@ -17,7 +17,7 @@ border: 3px solid gray;
 .formstyle  
 {  
 width: 300px;  
-height: 530px;  
+height: 670px;  
 margin: auto;  
 border: 3px solid skyblue;  
 border-radius: 5px;  
